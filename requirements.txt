@@ -1,0 +1,9 @@
+asgiref>=3.7.2
+click>=8.1.7
+Django>=4.2.11
+joblib>=1.4.0
+nltk>=3.8.1
+regex>=2023.12.25
+sqlparse>=0.4.4
+tqdm>=4.66.2
+setuptools>=69.5.1
